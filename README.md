@@ -1,3 +1,3 @@
 # trial
 
-welcome for demo of git
+welcome for demo of git and on vsc
